@@ -1,6 +1,6 @@
 # [STM8S001J3 COSMIC C TUTORIALS](https://circuitdigest.com/tags/stm8)
 
-<img src="https://github.com/Circuit-Digest/STM8S001J3_Cosmic_C_Tutorial/blob/master/IMAGES/T1_Getting%20Started%20with%20STM8S001J3.jpg" width="" alt="alt_text" title="image_tooltip">
+<img src="https://github.com/Circuit-Digest/STM8S001J3_Cosmic_C_Tutorial/blob/main/IMAGES/T1_Getting%20Started%20with%20STM8S001J3.jpg" width="" alt="alt_text" title="image_tooltip">
 <br>
 
 <br>
