@@ -17,11 +17,11 @@ Hello everyone, this repository is containing the resource files of our STM8S001
 <br>
 <br>
 
-**Pin out of the STM8S103F3P6**
+**Pin out of the STM8S001J3**
 
 <br>
 <br>
-<img src="https://github.com/Circuit-Digest/STM8S103F3P6_Cosmic_C_Tutorial/blob/master/IMAGES/PinOut_STM8S.png" width="" alt="alt_text" title="Pinout_stm8s">
+<img src="https://github.com/Circuit-Digest/STM8S001J3_Cosmic_C_Tutorial/blob/main/IMAGES/PinOut_STM8S001J3.jpg" width="" alt="alt_text" title="Pinout_stm8s">
 
 <br>
 <br>
